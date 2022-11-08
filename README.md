@@ -11,6 +11,8 @@ o	IA32_VMX_PINBASED_CTLS  0x481
 o	IA32_VMX_ENTRY_CTLS   0x484
 o	IA32_VMX_EXIT_CTLS     0x483
 
+   Output is in the output.txt file
+
 Rishikesh Andhare
 •	Created the VM on Google Cloud Platform with the configurations as per the requirement in Assignment-1
 •	MSR COMPLETED- 
